@@ -1,0 +1,613 @@
+# depslib dependency file v1.0
+1606854068 source:c:\users\marina\desktop\licenciatura en informática\segundo semestre\taller i\taller i\boolean.cpp
+	"boolean.h"
+
+1606854034 c:\users\marina\desktop\licenciatura en informática\segundo semestre\taller i\taller i\boolean.h
+	<stdio.h>
+
+1613431051 source:c:\users\marina\desktop\licenciatura en informática\segundo semestre\taller i\taller i\string.cpp
+	"string.h"
+
+1613429706 c:\users\marina\desktop\licenciatura en informática\segundo semestre\taller i\taller i\string.h
+	"boolean.h"
+
+1613440535 source:c:\users\marina\desktop\licenciatura en informática\segundo semestre\taller i\taller i\listaelementos.cpp
+	"listaElementos.h"
+
+1613433653 c:\users\marina\desktop\licenciatura en informática\segundo semestre\taller i\taller i\listaelementos.h
+	"boolean.h"
+
+1613437061 source:c:\users\marina\desktop\licenciatura en informática\segundo semestre\taller i\taller i\main.cpp
+	"listaElementos.h"
+
+1613440535 source:c:\users\marina\desktop\licenciatura en informática\segundo semestre\taller i\taller i\borrador.cpp
+
+1606854068 source:c:\users\quique\downloads\taller l\boolean.cpp
+	"boolean.h"
+
+1606854034 c:\users\quique\downloads\taller l\boolean.h
+	<stdio.h>
+
+1613440535 source:c:\users\quique\downloads\taller l\borrador.cpp
+
+1613607975 source:c:\users\quique\downloads\taller l\conjunto.cpp
+	"conjunto.h"
+
+1613604503 c:\users\quique\downloads\taller l\conjunto.h
+	"listaElementos.h"
+	"string.h"
+
+1613520991 c:\users\quique\downloads\taller l\listaelementos.h
+	"boolean.h"
+
+1613429706 c:\users\quique\downloads\taller l\string.h
+	"boolean.h"
+
+1613525424 source:c:\users\quique\downloads\taller l\listaelementos.cpp
+	"listaElementos.h"
+
+1613605004 source:c:\users\quique\downloads\taller l\main.cpp
+	"conjunto.h"
+
+1613604540 source:c:\users\quique\downloads\taller l\preubalistaelementos.cpp
+
+1613431051 source:c:\users\quique\downloads\taller l\string.cpp
+	"string.h"
+
+1606854068 source:c:\users\marina\desktop\taller l\boolean.cpp
+	"boolean.h"
+
+1606854034 c:\users\marina\desktop\taller l\boolean.h
+	<stdio.h>
+
+1613440536 source:c:\users\marina\desktop\taller l\borrador.cpp
+
+1613695078 source:c:\users\marina\desktop\taller l\conjunto.cpp
+	"conjunto.h"
+
+1613604504 c:\users\marina\desktop\taller l\conjunto.h
+	"listaElementos.h"
+	"string.h"
+
+1613520992 c:\users\marina\desktop\taller l\listaelementos.h
+	"boolean.h"
+
+1613429708 c:\users\marina\desktop\taller l\string.h
+	"boolean.h"
+
+1613525426 source:c:\users\marina\desktop\taller l\listaelementos.cpp
+	"listaElementos.h"
+
+1613604542 source:c:\users\marina\desktop\taller l\preubalistaelementos.cpp
+
+1613693300 source:c:\users\marina\desktop\taller l\pruebaconjuntos.cpp
+
+1613431052 source:c:\users\marina\desktop\taller l\string.cpp
+	"string.h"
+
+1613775374 source:c:\users\marina\desktop\taller l\abb.cpp
+	"ABB.h"
+
+1613775352 c:\users\marina\desktop\taller l\abb.h
+	"conjunto.h"
+
+1613775630 source:c:\users\marina\desktop\taller l\main.cpp
+	"ABB.h"
+
+1613775651 source:c:\users\quique\desktop\taller 1\taller l 20 2 21\abb.cpp
+	"ABB.h"
+
+1613775352 c:\users\quique\desktop\taller 1\taller l 20 2 21\abb.h
+	"conjunto.h"
+
+1613604504 c:\users\quique\desktop\taller 1\taller l 20 2 21\conjunto.h
+	"listaElementos.h"
+	"string.h"
+
+1613520992 c:\users\quique\desktop\taller 1\taller l 20 2 21\listaelementos.h
+	"boolean.h"
+
+1606854034 c:\users\quique\desktop\taller 1\taller l 20 2 21\boolean.h
+	<stdio.h>
+
+1613853020 c:\users\quique\desktop\taller 1\taller l 20 2 21\string.h
+	"boolean.h"
+
+1606854068 source:c:\users\quique\desktop\taller 1\taller l 20 2 21\boolean.cpp
+	"boolean.h"
+
+1613440536 source:c:\users\quique\desktop\taller 1\taller l 20 2 21\borrador.cpp
+
+1613695078 source:c:\users\quique\desktop\taller 1\taller l 20 2 21\conjunto.cpp
+	"conjunto.h"
+
+1613525426 source:c:\users\quique\desktop\taller 1\taller l 20 2 21\listaelementos.cpp
+	"listaElementos.h"
+
+1613604542 source:c:\users\quique\desktop\taller 1\taller l 20 2 21\preubalistaelementos.cpp
+
+1613775757 source:c:\users\quique\desktop\taller 1\taller l 20 2 21\pruebaabb.cpp
+
+1613693300 source:c:\users\quique\desktop\taller 1\taller l 20 2 21\pruebaconjuntos.cpp
+
+1613854084 source:c:\users\quique\desktop\taller 1\taller l 20 2 21\string.cpp
+	"string.h"
+
+1613853446 source:c:\users\quique\desktop\taller 1\taller l 20 2 21\main.cpp
+	"string.h"
+
+1613848038 source:c:\users\quique\desktop\taller 1\taller l 20 2 21\comando.cpp
+	"comando.h"
+
+1613835081 c:\users\quique\desktop\taller 1\taller l 20 2 21\comando.h
+	<stdio.h>
+
+1613853489 source:c:\users\quique\desktop\taller 1\taller l 20 2 21\parser.cpp
+	"parser.h"
+
+1613853398 c:\users\quique\desktop\taller 1\taller l 20 2 21\parser.h
+	"comando.h"
+	"string.h"
+
+1613775652 source:c:\users\marina\desktop\taller l 20 2 21\abb.cpp
+	"ABB.h"
+
+1613775354 c:\users\marina\desktop\taller l 20 2 21\abb.h
+	"conjunto.h"
+
+1613604504 c:\users\marina\desktop\taller l 20 2 21\conjunto.h
+	"listaElementos.h"
+	"string.h"
+
+1613520992 c:\users\marina\desktop\taller l 20 2 21\listaelementos.h
+	"boolean.h"
+
+1606854034 c:\users\marina\desktop\taller l 20 2 21\boolean.h
+	<stdio.h>
+
+1613853022 c:\users\marina\desktop\taller l 20 2 21\string.h
+	"boolean.h"
+
+1606854068 source:c:\users\marina\desktop\taller l 20 2 21\boolean.cpp
+	"boolean.h"
+
+1613440536 source:c:\users\marina\desktop\taller l 20 2 21\borrador.cpp
+
+1613848040 source:c:\users\marina\desktop\taller l 20 2 21\comando.cpp
+	"comando.h"
+
+1613835082 c:\users\marina\desktop\taller l 20 2 21\comando.h
+	<stdio.h>
+
+1613695080 source:c:\users\marina\desktop\taller l 20 2 21\conjunto.cpp
+	"conjunto.h"
+
+1613525426 source:c:\users\marina\desktop\taller l 20 2 21\listaelementos.cpp
+	"listaElementos.h"
+
+1613604542 source:c:\users\marina\desktop\taller l 20 2 21\preubalistaelementos.cpp
+
+1613775758 source:c:\users\marina\desktop\taller l 20 2 21\pruebaabb.cpp
+
+1613693302 source:c:\users\marina\desktop\taller l 20 2 21\pruebaconjuntos.cpp
+
+1613854086 source:c:\users\marina\desktop\taller l 20 2 21\string.cpp
+	"string.h"
+
+1613858904 source:c:\users\marina\desktop\taller l 20 2 21\main.cpp
+	"parser.h"
+
+1613857144 c:\users\marina\desktop\taller l 20 2 21\parser.h
+	"comando.h"
+	"string.h"
+
+1613858684 source:c:\users\marina\desktop\taller l 20 2 21\parser.cpp
+	"parser.h"
+
+1613775652 source:c:\users\quique\desktop\taller 1\taller l 21 2 21\abb.cpp
+	"ABB.h"
+
+1613775354 c:\users\quique\desktop\taller 1\taller l 21 2 21\abb.h
+	"conjunto.h"
+
+1613604504 c:\users\quique\desktop\taller 1\taller l 21 2 21\conjunto.h
+	"listaElementos.h"
+	"string.h"
+
+1613520992 c:\users\quique\desktop\taller 1\taller l 21 2 21\listaelementos.h
+	"boolean.h"
+
+1606854034 c:\users\quique\desktop\taller 1\taller l 21 2 21\boolean.h
+	<stdio.h>
+
+1613957710 c:\users\quique\desktop\taller 1\taller l 21 2 21\string.h
+	"boolean.h"
+
+1606854068 source:c:\users\quique\desktop\taller 1\taller l 21 2 21\boolean.cpp
+	"boolean.h"
+
+1613440536 source:c:\users\quique\desktop\taller 1\taller l 21 2 21\borrador.cpp
+
+1613848040 source:c:\users\quique\desktop\taller 1\taller l 21 2 21\comando.cpp
+	"comando.h"
+
+1613835082 c:\users\quique\desktop\taller 1\taller l 21 2 21\comando.h
+	<stdio.h>
+
+1613695080 source:c:\users\quique\desktop\taller 1\taller l 21 2 21\conjunto.cpp
+	"conjunto.h"
+
+1613525426 source:c:\users\quique\desktop\taller 1\taller l 21 2 21\listaelementos.cpp
+	"listaElementos.h"
+
+1613959001 source:c:\users\quique\desktop\taller 1\taller l 21 2 21\parser.cpp
+	"parser.h"
+
+1613950455 c:\users\quique\desktop\taller 1\taller l 21 2 21\parser.h
+	"comando.h"
+	"string.h"
+
+1613604542 source:c:\users\quique\desktop\taller 1\taller l 21 2 21\preubalistaelementos.cpp
+
+1613775758 source:c:\users\quique\desktop\taller 1\taller l 21 2 21\pruebaabb.cpp
+
+1613693302 source:c:\users\quique\desktop\taller 1\taller l 21 2 21\pruebaconjuntos.cpp
+
+1613957821 source:c:\users\quique\desktop\taller 1\taller l 21 2 21\string.cpp
+	"string.h"
+
+1613957749 source:c:\users\quique\desktop\taller 1\taller l 21 2 21\main.cpp
+	"parser.h"
+
+1613775652 source:c:\users\usuario\desktop\taller\taller l 21 2 21\abb.cpp
+	"ABB.h"
+
+1613775354 c:\users\usuario\desktop\taller\taller l 21 2 21\abb.h
+	"conjunto.h"
+
+1613604504 c:\users\usuario\desktop\taller\taller l 21 2 21\conjunto.h
+	"listaElementos.h"
+	"string.h"
+
+1613520992 c:\users\usuario\desktop\taller\taller l 21 2 21\listaelementos.h
+	"boolean.h"
+
+1606854034 c:\users\usuario\desktop\taller\taller l 21 2 21\boolean.h
+	<stdio.h>
+
+1613957712 c:\users\usuario\desktop\taller\taller l 21 2 21\string.h
+	"boolean.h"
+
+1606854068 source:c:\users\usuario\desktop\taller\taller l 21 2 21\boolean.cpp
+	"boolean.h"
+
+1613440536 source:c:\users\usuario\desktop\taller\taller l 21 2 21\borrador.cpp
+
+1613848040 source:c:\users\usuario\desktop\taller\taller l 21 2 21\comando.cpp
+	"comando.h"
+
+1613835082 c:\users\usuario\desktop\taller\taller l 21 2 21\comando.h
+	<stdio.h>
+
+1613695080 source:c:\users\usuario\desktop\taller\taller l 21 2 21\conjunto.cpp
+	"conjunto.h"
+
+1613525426 source:c:\users\usuario\desktop\taller\taller l 21 2 21\listaelementos.cpp
+	"listaElementos.h"
+
+1614040242 source:c:\users\usuario\desktop\taller\taller l 21 2 21\main.cpp
+	"parser.h"
+
+1613950456 c:\users\usuario\desktop\taller\taller l 21 2 21\parser.h
+	"comando.h"
+	"string.h"
+
+1613604542 source:c:\users\usuario\desktop\taller\taller l 21 2 21\preubalistaelementos.cpp
+
+1613775758 source:c:\users\usuario\desktop\taller\taller l 21 2 21\pruebaabb.cpp
+
+1613693302 source:c:\users\usuario\desktop\taller\taller l 21 2 21\pruebaconjuntos.cpp
+
+1614039758 source:c:\users\usuario\desktop\taller\taller l 21 2 21\string.cpp
+	"string.h"
+
+1614039855 source:c:\users\usuario\desktop\taller\taller l 21 2 21\parser.cpp
+	"parser.h"
+
+1613775652 source:c:\users\marina\desktop\taller l 21 2 21\abb.cpp
+	"ABB.h"
+
+1613775354 c:\users\marina\desktop\taller l 21 2 21\abb.h
+	"conjunto.h"
+
+1614116383 c:\users\marina\desktop\taller l 21 2 21\conjunto.h
+	"listaElementos.h"
+	"string.h"
+
+1613520992 c:\users\marina\desktop\taller l 21 2 21\listaelementos.h
+	"boolean.h"
+
+1606854034 c:\users\marina\desktop\taller l 21 2 21\boolean.h
+	<stdio.h>
+
+1613957712 c:\users\marina\desktop\taller l 21 2 21\string.h
+	"boolean.h"
+
+1606854068 source:c:\users\marina\desktop\taller l 21 2 21\boolean.cpp
+	"boolean.h"
+
+1613440536 source:c:\users\marina\desktop\taller l 21 2 21\borrador.cpp
+
+1613848040 source:c:\users\marina\desktop\taller l 21 2 21\comando.cpp
+	"comando.h"
+
+1613835082 c:\users\marina\desktop\taller l 21 2 21\comando.h
+	<stdio.h>
+
+1614116434 source:c:\users\marina\desktop\taller l 21 2 21\conjunto.cpp
+	"conjunto.h"
+
+1613525426 source:c:\users\marina\desktop\taller l 21 2 21\listaelementos.cpp
+	"listaElementos.h"
+
+1614115454 source:c:\users\marina\desktop\taller l 21 2 21\parser.cpp
+	"parser.h"
+
+1614115454 c:\users\marina\desktop\taller l 21 2 21\parser.h
+	"comando.h"
+	"string.h"
+
+1613604542 source:c:\users\marina\desktop\taller l 21 2 21\preubalistaelementos.cpp
+
+1613775758 source:c:\users\marina\desktop\taller l 21 2 21\pruebaabb.cpp
+
+1613693302 source:c:\users\marina\desktop\taller l 21 2 21\pruebaconjuntos.cpp
+
+1614112162 source:c:\users\marina\desktop\taller l 21 2 21\pruebaparser.cpp
+	"parser.h"
+
+1614039758 source:c:\users\marina\desktop\taller l 21 2 21\string.cpp
+	"string.h"
+
+1614122981 source:c:\users\marina\desktop\taller l 21 2 21\main.cpp
+	<stdlib.h>
+	"parser.h"
+	"ABB.h"
+
+1613775652 source:c:\users\usuario\desktop\taller\taller l 23 2 21\abb.cpp
+	"ABB.h"
+
+1613775354 c:\users\usuario\desktop\taller\taller l 23 2 21\abb.h
+	"conjunto.h"
+
+1614116383 c:\users\usuario\desktop\taller\taller l 23 2 21\conjunto.h
+	"listaElementos.h"
+	"string.h"
+
+1613520992 c:\users\usuario\desktop\taller\taller l 23 2 21\listaelementos.h
+	"boolean.h"
+
+1606854034 c:\users\usuario\desktop\taller\taller l 23 2 21\boolean.h
+	<stdio.h>
+
+1613957712 c:\users\usuario\desktop\taller\taller l 23 2 21\string.h
+	"boolean.h"
+
+1606854068 source:c:\users\usuario\desktop\taller\taller l 23 2 21\boolean.cpp
+	"boolean.h"
+
+1613440536 source:c:\users\usuario\desktop\taller\taller l 23 2 21\borrador.cpp
+
+1613848040 source:c:\users\usuario\desktop\taller\taller l 23 2 21\comando.cpp
+	"comando.h"
+
+1613835082 c:\users\usuario\desktop\taller\taller l 23 2 21\comando.h
+	<stdio.h>
+
+1614116434 source:c:\users\usuario\desktop\taller\taller l 23 2 21\conjunto.cpp
+	"conjunto.h"
+
+1613525426 source:c:\users\usuario\desktop\taller\taller l 23 2 21\listaelementos.cpp
+	"listaElementos.h"
+
+1614553684 source:c:\users\usuario\desktop\taller\taller l 23 2 21\parser.cpp
+	"parser.h"
+
+1614115454 c:\users\usuario\desktop\taller\taller l 23 2 21\parser.h
+	"comando.h"
+	"string.h"
+
+1613604542 source:c:\users\usuario\desktop\taller\taller l 23 2 21\preubalistaelementos.cpp
+
+1613775758 source:c:\users\usuario\desktop\taller\taller l 23 2 21\pruebaabb.cpp
+
+1613693302 source:c:\users\usuario\desktop\taller\taller l 23 2 21\pruebaconjuntos.cpp
+
+1614112162 source:c:\users\usuario\desktop\taller\taller l 23 2 21\pruebaparser.cpp
+	"parser.h"
+
+1614039758 source:c:\users\usuario\desktop\taller\taller l 23 2 21\string.cpp
+	"string.h"
+
+1614557264 source:c:\users\usuario\desktop\taller\taller l 23 2 21\main.cpp
+	<stdlib.h>
+	"parser.h"
+	"ABB.h"
+
+1613775652 source:c:\users\marina\desktop\taller l 28 2 21\abb.cpp
+	"ABB.h"
+
+1613775354 c:\users\marina\desktop\taller l 28 2 21\abb.h
+	"conjunto.h"
+
+1614116383 c:\users\marina\desktop\taller l 28 2 21\conjunto.h
+	"listaElementos.h"
+	"string.h"
+
+1613520992 c:\users\marina\desktop\taller l 28 2 21\listaelementos.h
+	"boolean.h"
+
+1606854034 c:\users\marina\desktop\taller l 28 2 21\boolean.h
+	<stdio.h>
+
+1613957712 c:\users\marina\desktop\taller l 28 2 21\string.h
+	"boolean.h"
+
+1606854068 source:c:\users\marina\desktop\taller l 28 2 21\boolean.cpp
+	"boolean.h"
+
+1613440536 source:c:\users\marina\desktop\taller l 28 2 21\borrador.cpp
+
+1613848040 source:c:\users\marina\desktop\taller l 28 2 21\comando.cpp
+	"comando.h"
+
+1613835082 c:\users\marina\desktop\taller l 28 2 21\comando.h
+	<stdio.h>
+
+1613525426 source:c:\users\marina\desktop\taller l 28 2 21\listaelementos.cpp
+	"listaElementos.h"
+
+1613604542 source:c:\users\marina\desktop\taller l 28 2 21\preubalistaelementos.cpp
+
+1613775758 source:c:\users\marina\desktop\taller l 28 2 21\pruebaabb.cpp
+
+1613693302 source:c:\users\marina\desktop\taller l 28 2 21\pruebaconjuntos.cpp
+
+1614112162 source:c:\users\marina\desktop\taller l 28 2 21\pruebaparser.cpp
+	"parser.h"
+
+1614115454 c:\users\marina\desktop\taller l 28 2 21\parser.h
+	"comando.h"
+	"string.h"
+
+1614039758 source:c:\users\marina\desktop\taller l 28 2 21\string.cpp
+	"string.h"
+
+1614722650 source:c:\users\marina\desktop\taller l 28 2 21\conjunto.cpp
+	"conjunto.h"
+
+1614722550 source:c:\users\marina\desktop\taller l 28 2 21\parser.cpp
+	"parser.h"
+
+1614723744 source:c:\users\marina\desktop\taller l 28 2 21\main.cpp
+	<stdlib.h>
+	"parser.h"
+	"ABB.h"
+
+1614807142 source:c:\users\marina\desktop\taller l 2 3 21\abb.cpp
+	"ABB.h"
+
+1614807142 c:\users\marina\desktop\taller l 2 3 21\abb.h
+	"conjunto.h"
+
+1614806903 c:\users\marina\desktop\taller l 2 3 21\conjunto.h
+	"listaElementos.h"
+	"string.h"
+
+1614805345 c:\users\marina\desktop\taller l 2 3 21\listaelementos.h
+	"boolean.h"
+
+1614803770 c:\users\marina\desktop\taller l 2 3 21\boolean.h
+	<stdio.h>
+
+1614804158 c:\users\marina\desktop\taller l 2 3 21\string.h
+	"boolean.h"
+
+1614804485 source:c:\users\marina\desktop\taller l 2 3 21\boolean.cpp
+	"boolean.h"
+
+1613440536 source:c:\users\marina\desktop\taller l 2 3 21\borrador.cpp
+
+1613848040 source:c:\users\marina\desktop\taller l 2 3 21\comando.cpp
+	"comando.h"
+
+1613835082 c:\users\marina\desktop\taller l 2 3 21\comando.h
+	<stdio.h>
+
+1614806702 source:c:\users\marina\desktop\taller l 2 3 21\conjunto.cpp
+	"conjunto.h"
+
+1614724561 source:c:\users\marina\desktop\taller l 2 3 21\main.cpp
+	<stdlib.h>
+	"parser.h"
+	"ABB.h"
+
+1614115454 c:\users\marina\desktop\taller l 2 3 21\parser.h
+	"comando.h"
+	"string.h"
+
+1614722550 source:c:\users\marina\desktop\taller l 2 3 21\parser.cpp
+	"parser.h"
+
+1613604542 source:c:\users\marina\desktop\taller l 2 3 21\preubalistaelementos.cpp
+
+1613775758 source:c:\users\marina\desktop\taller l 2 3 21\pruebaabb.cpp
+
+1613693302 source:c:\users\marina\desktop\taller l 2 3 21\pruebaconjuntos.cpp
+
+1614112162 source:c:\users\marina\desktop\taller l 2 3 21\pruebaparser.cpp
+	"parser.h"
+
+1614804445 source:c:\users\marina\desktop\taller l 2 3 21\string.cpp
+	"string.h"
+
+1615910525 source:c:\users\marina\desktop\taller l 3 3 21\abb.cpp
+	"ABB.h"
+
+1614807142 c:\users\marina\desktop\taller l 3 3 21\abb.h
+	"conjunto.h"
+
+1615910525 c:\users\marina\desktop\taller l 3 3 21\conjunto.h
+	"listaElementos.h"
+	"string.h"
+
+1614805345 c:\users\marina\desktop\taller l 3 3 21\listaelementos.h
+	"boolean.h"
+
+1614803770 c:\users\marina\desktop\taller l 3 3 21\boolean.h
+	<stdio.h>
+
+1614804158 c:\users\marina\desktop\taller l 3 3 21\string.h
+	"boolean.h"
+
+1614804485 source:c:\users\marina\desktop\taller l 3 3 21\boolean.cpp
+	"boolean.h"
+
+1613440536 source:c:\users\marina\desktop\taller l 3 3 21\borrador.cpp
+
+1613848040 source:c:\users\marina\desktop\taller l 3 3 21\comando.cpp
+	"comando.h"
+
+1613835082 c:\users\marina\desktop\taller l 3 3 21\comando.h
+	<stdio.h>
+
+1615910525 source:c:\users\marina\desktop\taller l 3 3 21\conjunto.cpp
+	"conjunto.h"
+
+1614807274 source:c:\users\marina\desktop\taller l 3 3 21\listaelementos.cpp
+	"listaElementos.h"
+
+1615910530 source:c:\users\marina\desktop\taller l 3 3 21\main.cpp
+	<stdlib.h>
+	"parser.h"
+	"ABB.h"
+
+1614807916 c:\users\marina\desktop\taller l 3 3 21\parser.h
+	"comando.h"
+	"string.h"
+
+1613604542 source:c:\users\marina\desktop\taller l 3 3 21\preubalistaelementos.cpp
+
+1613775758 source:c:\users\marina\desktop\taller l 3 3 21\pruebaabb.cpp
+
+1613693302 source:c:\users\marina\desktop\taller l 3 3 21\pruebaconjuntos.cpp
+
+1614112162 source:c:\users\marina\desktop\taller l 3 3 21\pruebaparser.cpp
+	"parser.h"
+
+1614804445 source:c:\users\marina\desktop\taller l 3 3 21\string.cpp
+	"string.h"
+
+1614807916 source:c:\users\marina\desktop\taller l 3 3 21\parser.cpp
+	"parser.h"
+
